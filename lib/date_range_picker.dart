@@ -1203,7 +1203,7 @@ class _DatePickerDialogState extends State<_DatePickerDialog> {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
-                header,
+               
                 new Flexible(
                   child: new Container(
                     width: _kMonthPickerLandscapeWidth,
