@@ -32,8 +32,8 @@ enum DatePickerMode {
   year,
 }
 
-const double _kDatePickerHeaderPortraitHeight = 40.0;
-const double _kDatePickerHeaderLandscapeWidth = 168.0;
+const double _kDatePickerHeaderPortraitHeight = 76.0;
+const double _kDatePickerHeaderLandscapeWidth = 100.0;
 
 const Duration _kMonthScrollDuration = Duration(milliseconds: 200);
 const double _kDayPickerRowHeight = 42.0;
